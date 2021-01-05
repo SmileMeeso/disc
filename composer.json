@@ -1,0 +1,16 @@
+{
+    "name": "smilemeeso/disc",
+    "description": "DISC 성격검사",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^2.2",
+        "twbs/bootstrap": "^4.5"
+    },
+    "license": "Free",
+    "authors": [
+        {
+            "name": "Meeso Kim",
+            "email": "m950827@naver.com"
+        }
+    ]
+}
